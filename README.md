@@ -1,4 +1,4 @@
 # haywae.github.io
 Links to my projects are below:     
 Cyprus Blog: https://haywae.github.io/allCyprus/    
-Converter App: https://haywae.github.io/DealerApp/
+Converter App: https://haywae.github.io/DealerApp/public

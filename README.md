@@ -1,3 +1,3 @@
 # haywae.github.io
 Links to my projects are below:     
-Converter App: https://haywae.github.io/DealerApp/public
+Converter App: https://haywae.github.io/DealerApp/
